@@ -1,16 +1,8 @@
 # user_list
 
-A new Flutter project.
+A Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project has an authentication system (login, register & session management) and 3 pages (home, search & profile) which can show all the user list (username and profile picture) from the local database (sqlite), search the user by username, and save the search keyword to the local database, also the user who logged in can change their profile picture.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
